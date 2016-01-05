@@ -21,7 +21,7 @@ If you have clause options in a contract, use three hashes in a row (as you see 
 
 This section, between the heading and the clause options, allows you to explain the options below.  Tell the people who will use template what they should think about when they choose between the two options below.
 
-### This is option 1 under the second heading of the Agreement.
+### This is option 1 under the second heading of the Agreement with an update.
 
 This is the clause text for option 1 under heading 2 of the Agreement.  The word Agreement is highlighted because at the end of this document, it's listed as a defined word.
 
