@@ -1,6 +1,6 @@
-# Example Agreement
+# Example Agreement v1.2
 
-`Purpose` This agreement shows people how to get a document onto codepact.com (you give a short description of what the agreement does here).
+`Purpose` This agreement is version v1.2. This agreement shows people how to get a document onto codepact.com (you give a short description of what the agreement does here).
 
 `Party 1 Name` Seller
 
