@@ -6,7 +6,7 @@
 
 `Party 2 Name` User
 
-`Jurisdiction` United Kingdom
+`Jurisdiction` Australia
 
 ## Agreement
 
