@@ -15,6 +15,8 @@ This is the first clause in the agreement between the Buyer and the Seller.  Two
 
 You can also add a {{text variable}} using these symbols.
 
+`Jurisdiction` England Wales
+
 ## The second heading (two or more options)
 
 If you have clause options in a contract, use three hashes in a row (as you see in the symbols below) to make sure that the system recognises them.
@@ -25,9 +27,13 @@ This section, between the heading and the clause options, allows you to explain 
 
 This is the clause text for option 1 under heading 2 of the Agreement.  The word Agreement is highlighted because at the end of this document, it's listed as a defined word.
 
+`Jurisdiction` England Wales
+
 ### This is option 2 under the second heading of the Agreement.
 
 This is the clause text for option 2 under heading 2 of the Agreement between Buyer and Seller.  This is using the Second Definition - and now for a Three Word Definition.
+
+`Jurisdiction` Australia
 
 ## Definition plurals
 
