@@ -1,4 +1,4 @@
-# Example Agreement v3.2
+# Example Agreement v3.6.7
 
 `Purpose` This agreement is version v3.5.1. This agreement shows people how to get a document onto codepact.com (you give a short description of what the agreement does here) there is a change test.
 
